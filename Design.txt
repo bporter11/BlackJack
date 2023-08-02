@@ -1,0 +1,9 @@
+1. Card class with Suit and Rank
+2. Deck class which contains 52 ranked and suited cards
+-Generate Deck (Creates a new deck of 52 cards)
+-Draw a card- returns the first element in the deck and then removes it from the deck
+-Print all the cards in the deck
+-Shuffle Deck (not sure how to implement this yet)
+-
+3. Abstract game class which implements different games
+4. Burnt card pile class (possibly be able to use this later
